@@ -1,3 +1,4 @@
 Admin and Client page, with CRUD
 
-Java
+Java language
+Application with Netbeans
